@@ -1,0 +1,814 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\implementations\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\implementations\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\implementations\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\implementations\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\playlist\\playlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\playlist\\playlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\controllers\\playlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\implementations\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\implementations\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\implementations\\filmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\implementations\\filmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\implementations\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\implementations\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\filme\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\filme\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\interfaces\\ifilmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\interfaces\\ifilmeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\implementations\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\implementations\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\implementations\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\implementations\\playlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\interfaces\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\interfaces\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\interfaces\\iplaylistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\livro\\updatelivrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\livro\\updatelivrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\livro\\createlivrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\livro\\createlivrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\livro\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\livro\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\catalogoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\catalogoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\interfaces\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\interfaces\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\playlist\\playlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\playlist\\playlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\playlist\\additemtoplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\playlist\\additemtoplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\playlist\\createplaylistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\playlist\\createplaylistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\filme\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\filme\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\filme\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\filme\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\usuario\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\usuario\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\usuario\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\usuario\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\dtos\\usuario\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\dtos\\usuario\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\entities\\playlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\entities\\playlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\entities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\entities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\entities\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\entities\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|c:\\users\\marlo\\onedrive\\imagens\\catalogoapi\\catalogoapi\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9976833-FEDE-4857-89C8-DC27838BF9B6}|CatalogoApi\\CatalogoApi.csproj|solutionrelative:catalogoapi\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "CatalogoApi\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\docker-compose.yml",
+              "RelativeToolTip": "CatalogoApi\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-28T03:34:14.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\.dockerignore",
+              "RelativeDocumentMoniker": "CatalogoApi\\.dockerignore",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\.dockerignore",
+              "RelativeToolTip": "CatalogoApi\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T03:32:53.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "CatalogoApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Dockerfile",
+              "RelativeToolTip": "CatalogoApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T03:32:36.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Program.cs",
+              "RelativeToolTip": "CatalogoApi\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:19:35.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CatalogoApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\appsettings.json",
+              "RelativeToolTip": "CatalogoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T03:19:17.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaylistsController.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\PlaylistsController.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Controllers\\PlaylistsController.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\PlaylistsController.cs",
+              "RelativeToolTip": "CatalogoApi\\Controllers\\PlaylistsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:16:36.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "CatalogoApi\\Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:15:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\LivroService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Implementations\\LivroService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\LivroService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Implementations\\LivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:00:39.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Implementations\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\LivroRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Implementations\\LivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:51:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaylistDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\PlaylistDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Playlist\\PlaylistDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\PlaylistDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Playlist\\PlaylistDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:39:21.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\FilmeRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Implementations\\FilmeRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\FilmeRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Implementations\\FilmeRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:50:53.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CatalogoApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:34:11.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:54:53.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Interfaces\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\ILivroRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Interfaces\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:49:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILivroService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\ILivroService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Interfaces\\ILivroService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\ILivroService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Interfaces\\ILivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:54:31.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Implementations\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\UsuarioRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Implementations\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:50:09.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlaylistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\PlaylistRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Implementations\\PlaylistRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Implementations\\PlaylistRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Implementations\\PlaylistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:52:06.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFilmeService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\IFilmeService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Interfaces\\IFilmeService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\IFilmeService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Interfaces\\IFilmeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:54:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FilmeService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\FilmeService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Implementations\\FilmeService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\FilmeService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Implementations\\FilmeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:03:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlaylistService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\PlaylistService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Implementations\\PlaylistService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Implementations\\PlaylistService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Implementations\\PlaylistService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:03:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FilmesController.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\FilmesController.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Controllers\\FilmesController.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Controllers\\FilmesController.cs",
+              "RelativeToolTip": "CatalogoApi\\Controllers\\FilmesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:35:53.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\IFilmeRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Interfaces\\IFilmeRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\IFilmeRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Interfaces\\IFilmeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:48:44.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Filme\\UpdateFilmeDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Filme\\UpdateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Filme\\UpdateFilmeDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Filme\\UpdateFilmeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:39:34.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPlaylistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\IPlaylistRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Interfaces\\IPlaylistRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\IPlaylistRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Interfaces\\IPlaylistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:49:43.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateLivroDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Livro\\UpdateLivroDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Livro\\UpdateLivroDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Livro\\UpdateLivroDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Livro\\UpdateLivroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:40:34.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateLivroDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Livro\\CreateLivroDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Livro\\CreateLivroDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Livro\\CreateLivroDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Livro\\CreateLivroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:36:00.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LivroDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Livro\\LivroDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Livro\\LivroDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Livro\\LivroDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Livro\\LivroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:35:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Helpers\\TokenService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Helpers\\TokenService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Helpers\\TokenService.cs",
+              "RelativeToolTip": "CatalogoApi\\Helpers\\TokenService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:57:50.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CatalogoApi",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\CatalogoApi.csproj",
+              "RelativeDocumentMoniker": "CatalogoApi\\CatalogoApi.csproj",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\CatalogoApi.csproj",
+              "RelativeToolTip": "CatalogoApi\\CatalogoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T01:01:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPlaylistService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\IPlaylistService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Interfaces\\IPlaylistService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\IPlaylistService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Interfaces\\IPlaylistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:54:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "CatalogoApi\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:53:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "CatalogoApi\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:48:01.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CatalogoApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:41:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlaylistItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\PlaylistItemDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Playlist\\PlaylistItemDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\PlaylistItemDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Playlist\\PlaylistItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:38:25.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddItemToPlaylist.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\AddItemToPlaylist.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Playlist\\AddItemToPlaylist.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\AddItemToPlaylist.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Playlist\\AddItemToPlaylist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:37:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreatePlaylistDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\CreatePlaylistDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Playlist\\CreatePlaylistDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Playlist\\CreatePlaylistDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Playlist\\CreatePlaylistDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:36:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Filme\\CreateFilmeDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Filme\\CreateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Filme\\CreateFilmeDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Filme\\CreateFilmeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:34:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Filme\\FilmeDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Filme\\FilmeDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Filme\\FilmeDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Filme\\FilmeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:33:08.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Usuario\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Usuario\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Usuario\\LoginResponseDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Usuario\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:32:16.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Usuario\\LoginDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Usuario\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Usuario\\LoginDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Usuario\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:31:07.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Usuario\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\DTOs\\Usuario\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\DTOs\\Usuario\\RegisterUserDto.cs",
+              "RelativeToolTip": "CatalogoApi\\DTOs\\Usuario\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:28:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlaylistItem.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\PlaylistItem.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Entities\\PlaylistItem.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\PlaylistItem.cs",
+              "RelativeToolTip": "CatalogoApi\\Entities\\PlaylistItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:26:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Playlist.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Entities\\Playlist.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Playlist.cs",
+              "RelativeToolTip": "CatalogoApi\\Entities\\Playlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:23:47.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Livro.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Entities\\Livro.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Livro.cs",
+              "RelativeToolTip": "CatalogoApi\\Entities\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:23:13.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Filme.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Entities\\Filme.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Filme.cs",
+              "RelativeToolTip": "CatalogoApi\\Entities\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:21:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "CatalogoApi\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Imagens\\CatalogoApi\\CatalogoApi\\Entities\\Usuario.cs",
+              "RelativeToolTip": "CatalogoApi\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:19:13.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

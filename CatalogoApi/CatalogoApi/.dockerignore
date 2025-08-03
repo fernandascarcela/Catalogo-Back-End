@@ -1,0 +1,17 @@
+# Ignora saídas de build e debug
+bin/
+obj/
+
+# Ignora configurações locais do IDE
+.vs/
+.vscode/
+
+# Ignora configurações de usuário e segredos locais
+*.user
+secrets.json
+
+# Ignora arquivos de cache e do Git
+.git
+.gitignore
+*.db
+*.db-journal

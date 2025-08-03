@@ -1,0 +1,12 @@
+
+services:
+  api:
+    build: .
+    container_name: catalogo-api
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - ConnectionStrings__DefaultConnection=DataSource=/app/data/app.db
+      - ASPNETCORE_ENVIRONMENT=Development
