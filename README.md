@@ -35,6 +35,39 @@ Este projeto é o back-end da aplicação SPA desenvolvida em React, agora integ
 - Docker (com Dockerfile incluído)
 ---
 
+## 🚀 Como utilizar
+
+### 📦 Back-End (API + Banco de Dados)
+
+O back-end está containerizado com Docker, incluindo a API e um banco de dados SQLite. Isso significa que não é necessário instalar dependências manualmente — basta rodar o Docker e tudo estará pronto para uso.
+
+#### Requisitos
+
+- [Docker](https://www.docker.com/) instalado
+
+#### Instruções
+# Clone o repositório
+git clone https://github.com/fernandascarcela/Catalogo-Back-End.git
+cd Catalogo-Back-End/CatalogoApi
+docker-composse up --build
+
+## 💻 Front-End
+### Requisitos
+
+- [Node.js](https://nodejs.org/) (versão 18 ou superior)
+- npm
+
+### Instruções
+# Acesse a pasta do front-end
+cd ../catalogo
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+
+
 ## Imagens do Back end
 <img width="1337" height="608" alt="Captura de tela 2025-08-03 104051" src="https://github.com/user-attachments/assets/44578869-a952-443c-8b57-b9166a0f622f" />
 <img width="1334" height="596" alt="Captura de tela 2025-08-03 104059" src="https://github.com/user-attachments/assets/83edda47-b080-4ab8-baa9-9c0efed0901c" />
