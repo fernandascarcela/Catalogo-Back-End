@@ -47,9 +47,9 @@ O back-end está containerizado com Docker, incluindo a API e um banco de dados 
 
 #### Instruções
 # Clone o repositório
-git clone https://github.com/fernandascarcela/Catalogo-Back-End.git
-cd Catalogo-Back-End/CatalogoApi
-docker-composse up --build
+- git clone https://github.com/fernandascarcela/Catalogo-Back-End.git
+- cd Catalogo-Back-End/CatalogoApi
+- docker-composse up --build
 
 ## 💻 Front-End
 ### Requisitos
@@ -59,13 +59,13 @@ docker-composse up --build
 
 ### Instruções
 # Acesse a pasta do front-end
-cd ../catalogo
+- cd ../catalogo
 
 # Instale as dependências
-npm install
+- npm install
 
 # Inicie o servidor de desenvolvimento
-npm run dev
+- npm run dev
 
 
 ## Imagens do Back end
